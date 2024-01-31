@@ -1,0 +1,14 @@
+{
+  "name": "backennd",
+  "version": "1.0.0",
+  "description": "learning backend ",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Aniket giri",
+  "license": "ISC"
+}
